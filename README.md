@@ -1,9 +1,8 @@
-# The Sparks Foundation
-## Data Science and Business Analytics Internship
+# Data Analysis using Kaggle Datasets
+## Data Science and Business Analytics
 ### Exploratory Data Analysis on Super Store
 
 ![image](https://user-images.githubusercontent.com/81607668/127727120-a11f32fa-3042-4773-b54e-fd1a792fff2f.png)
-[Image credit](https://www.blogto.com/real-estate-toronto/2021/04/iconic-kims-convenience-store-for-sale-toronto/)
 
 #### Background
 Super Store is a small retail business located in the United States. They sell Furniture, Office Supplies and Technology products and their customers are the mass Consumer, Corporate and Home Offices. The data set contains sales, profit and geographical information of individual orders.
@@ -28,5 +27,3 @@ The data set is publicly available on [Kaggle](https://www.kaggle.com/akashkotha
 
 #### Posted in
 - [Medium: Exploratory Data Analysis on Super Store](https://medium.com/analytics-vidhya/exploratory-data-analysis-super-store-cb91c37bcb06?source=friends_link&sk=4da79b677c63a8ad63bce6ae84fb5a25)
-- [Kaggle: Sales Analysis on Super Store](https://www.kaggle.com/katiehuangx/sales-analysis-super-store)
-
